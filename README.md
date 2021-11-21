@@ -1,5 +1,7 @@
 # Dotfiles
 
+T'is Qkazoo's commit of the century
+
 ## Screenshots
 
 ![Neofetch](screenshot/neofetch.png)
